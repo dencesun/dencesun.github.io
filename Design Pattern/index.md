@@ -1,1 +1,1 @@
-## [Bridge Pattern](./Bridge Pattern.md)
+## [Bridge Pattern](./BridgePattern.md)
