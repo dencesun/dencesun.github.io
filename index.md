@@ -3,7 +3,7 @@
 
 ### [Java](./java/algorithm.md)
 
-### [Design Pattern](./Design Pattern/index.md)
+### [Design Pattern](./Design\ Pattern/index.md)
 
 ### [Redis](./Redis/Redis.md)
 
