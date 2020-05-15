@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-## [java](./java/algorithm.md)
+## [Java](./java/algorithm.md)
 ## [工作感想](./tmp/tmp.md)
 
 
