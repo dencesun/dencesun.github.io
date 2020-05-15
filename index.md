@@ -3,6 +3,8 @@
 
 ### [Java](./java/algorithm.md)
 
+### [Redis](./Redis/Redis.md)
+
 ### [Docker](./docker/docker.md)
 
 ### [工作感想](./tmp/tmp.md)
